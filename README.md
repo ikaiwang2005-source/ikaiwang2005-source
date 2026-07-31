@@ -1,11 +1,8 @@
 <p align="center">
   <img
-    height="1000"
-    width="1000"
-    src="blackhole.png"
+    src="blackhole1.png"
     alt="ASCII black hole"
-
-  >
+    >
 </p>
 
 # 💫 About Me:
